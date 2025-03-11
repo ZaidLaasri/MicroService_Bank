@@ -1,7 +1,7 @@
 package com.example.customer;
 
-import com.example.customer.Entities.Customer;
-import com.example.customer.Repositories.CustomerRepository;
+import com.example.customer.entities.Customer;
+import com.example.customer.repositories.CustomerRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.test.context.SpringBootTest;

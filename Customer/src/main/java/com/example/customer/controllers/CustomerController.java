@@ -1,7 +1,7 @@
-package com.example.customer.Controllers;
+package com.example.customer.controllers;
 
-import com.example.customer.Entities.Customer;
-import com.example.customer.Repositories.CustomerRepository;
+import com.example.customer.entities.Customer;
+import com.example.customer.repositories.CustomerRepository;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
