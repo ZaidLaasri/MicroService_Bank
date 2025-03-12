@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: GATEWAY
+  cloud:
+    gateway:
+      discovery:
+        locator:
+            enabled: true
+
+server:
+  port: 8888
